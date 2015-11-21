@@ -1,0 +1,21 @@
+div.error {
+    border: 1px solid #a00;
+    color: #a00;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.circular-button {
+    border-radius: 50%;
+    background-color: #0c60ee;
+    color: #fff;
+    height: 200px;
+    width: 200px;
+    font-size: 30px;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 100px;
+}
